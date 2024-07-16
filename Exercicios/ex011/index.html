@@ -1,11 +1,16 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Midias</title>
 </head>
 <body>
-    
+    <h1>Reproduzindo audio.</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+    <audio preload="metadata" autoplay controls loop>
+        <source src="midias/Guilhotina.mp3" type="audio/mpeg">
+    </audio>
+    <p>Infelizmente seu navegador não consegue reproduzir audio.<a href="midias/Guilhotina.mp3" download="Guilhotina.mp3" type="application/mp3">Clique aqui para baixar o arquivo mp3.</a></p>
 </body>
 </html>

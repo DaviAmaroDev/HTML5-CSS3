@@ -6,7 +6,22 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #042940, #005C53, #9FC131, #DBF227, #D6D58E);
+    background-image: linear-gradient(to right, #9FC131, #DBF227, #D6D58E);
+}
+
+main {
+    background-color: rgb(247, 67, 67)47, 67, 67);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color:  #0CF25D;
+}
+
+h2 {
+    color: #025951;
 }
 
 P {

@@ -6,24 +6,30 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #9FC131, #DBF227, #D6D58E);
+    background-image: linear-gradient(to right, #00ff6a, #DBF227, #D6D58E);
 }
 
 main {
-    background-color: rgb(247, 67, 67)47, 67, 67);
+    background-color: rgb(68, 0, 255);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #025951;
     width: 600px;
     padding: 10px;
     margin: auto;
 }
 
 h1 {
-    color:  #0CF25D;
+    color:  #00ff59;
+    text-align: center;
+    text-shadow: 1px 1px 0px #025951;
 }
 
 h2 {
-    color: #025951;
+    color: #ff0040;
 }
 
 P {
+    color: #DBF227;
     text-align: justify;
+    text-shadow: 2px 2px 0px #025951;
 }

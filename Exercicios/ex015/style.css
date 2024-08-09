@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #00ff6a, #DBF227, #D6D58E);
+    background-image: linear-gradient(to right, #00ff62, #50f227, #D6D58E);
 }
 
 main {
@@ -25,11 +25,11 @@ h1 {
 }
 
 h2 {
-    color: #ff0040;
+    color: #fbff00;
 }
 
 P {
-    color: #DBF227;
+    color: #fcfcfc;
     text-align: justify;
     text-shadow: 2px 2px 0px #025951;
 }

@@ -9,11 +9,27 @@ h1 {
     color: rgb(0, 128, 32);
 }
 
-h1#principal {
+h1#main {
     text-align: center;
     background-color: rgb(58, 151, 58);
 }
 
 h2 {
     color: rgb(3, 105, 63);
+}
+
+.basico {
+    color: greenyellow;
+}
+
+.intermediario {
+    color: yellow;
+}
+
+.avancado {
+    color: red;
+}
+
+.destaque {
+    background-color: rgba(158, 158, 74, 0.418);
 }
